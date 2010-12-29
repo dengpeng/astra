@@ -7,11 +7,11 @@
 :END:
   - [X] Technology selection [100%]
     + [X] Server side: [100%]
-      * [X] Database: MySQL 
-      * [X] Framework: Spring Framework
+      - [X] Database: MySQL 
+      - [X] Framework: Spring Framework
     + [X] Client side [100%]
-      * [X] Javascript: jQuery + Underscore.js + Backbone.js
-      * [X] CSS: Blueprint.css (for typography and layout)
+      - [X] Javascript: jQuery + Underscore.js + Backbone.js
+      - [X] CSS: Blueprint.css (for typography and layout)
   - [ ] Architecture
         Note: decouple view and controller layer 
   - [X] Project Setup: Maven + Roo + STS
@@ -21,9 +21,9 @@
   - [ ] Authentication [0%]
     + [ ] Login/out
     + [ ] Account management [0%]
-      * [ ] creation
-      * [ ] password recovery
-      * [ ] editing
+      - [ ] creation
+      - [ ] password recovery
+      - [ ] editing
   - [ ] Integration: Email
   - [ ] RESTful API to CRUD models
   - [ ] Course related models
@@ -64,21 +64,21 @@
   - [ ] Options management
         + Certification ?
         + Time planning
-          * Start date
-          * End date
-          * Hours/Week
-          * Measurable
+          - Start date
+          - End date
+          - Hours/Week
+          - Measurable
         + Settings
-          * Timed Tests/Exams
-          * Retake Tests/Exams
-          * Watch dog timer
+          - Timed Tests/Exams
+          - Retake Tests/Exams
+          - Watch dog timer
         + Performance goal
         + Session Reminder
         + Notification
-          * missed measurable
+          - missed measurable
         + report
-          * performance
-          * progress
+          - performance
+          - progress
   - [ ] Monitor
 
 * Statistics
