@@ -3,7 +3,7 @@
 
 * Base Web Dev 1 [25%]
 :PROPERTIES:
-:Effort: 80:00
+:Effort: 100:00
 :END:
 - [ ] Technology selection [100%]
    + [X] Server side: [100%]
@@ -13,7 +13,7 @@
      - [X] Javascript: jQuery + Underscore.js + Backbone.js
      - [X] CSS: Blueprint.css (for typography and layout)
 - [ ] Architecture [%]
-Note: decouple view and controller layer 
+      Note: decouple view and controller layer 
 - [ ] Project Setup [100%]
    + [X] Maven
    + [X] Springsource Tool Suite
