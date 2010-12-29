@@ -1,0 +1,95 @@
+#+START UP: indent
+#+PROPERTY: Effort_ALL 15:00 30:00 40:00 50:00 60:00 70:00 80:00 100:00
+
+* Base Web Dev 1 [25%]
+:PROPERTIES:
+:Effort: 80:00
+:END:
+  - [X] Technology selection [100%]
+    + [X] Server side: [100%]
+      * [X] Database: MySQL 
+      * [X] Framework: Spring Framework
+    + [X] Client side [100%]
+      * [X] Javascript: jQuery + Underscore.js + Backbone.js
+      * [X] CSS: Blueprint.css (for typography and layout)
+  - [ ] Architecture
+        Note: decouple view and controller layer 
+  - [X] Project Setup: Maven + Roo + STS
+  - [-] User related models [50%]
+    + [X] User, Role, Privileges
+    + [ ] Profile
+  - [ ] Authentication [0%]
+    + [ ] Login/out
+    + [ ] Account management [0%]
+      * [ ] creation
+      * [ ] password recovery
+      * [ ] editing
+  - [ ] Integration: Email
+  - [ ] RESTful API to CRUD models
+  - [ ] Course related models
+
+* Base Web Dev 2 [0%]
+  :PROPERTIES:
+  :Effort:   60:00
+  :END:
+  - [ ] Page flow
+  - [ ] Look & Feel
+    + [ ] Layout
+    + [ ] Typography (Web Fonts)
+    + [ ] Color scheme
+
+* Textbook Viewer
+  - [ ] Document (Text book) structure definition
+  - [ ] Partial loading, background loading
+  - [ ] Navigation Controls
+  - [ ] Table of Content Viewer
+  - [ ] Addons
+    + [ ] Line highlighter
+    + [ ] Zoom in/out
+    + [ ] Bookmark
+    + [ ] Note
+
+* Exercise/Test Environment
+  - [ ] Data/Model: Test content, answer, explanation
+  - [ ] Correctness checking
+  - [ ] Result/Hint/Help displaying
+  - [ ] Timer
+  - [ ] Interaction
+
+* Course Management
+  - [ ] Goal management
+        + Becoming an expert
+        + Invest regular time
+        + Complete Course by specified time
+  - [ ] Options management
+        + Certification ?
+        + Time planning
+          * Start date
+          * End date
+          * Hours/Week
+          * Measurable
+        + Settings
+          * Timed Tests/Exams
+          * Retake Tests/Exams
+          * Watch dog timer
+        + Performance goal
+        + Session Reminder
+        + Notification
+          * missed measurable
+        + report
+          * performance
+          * progress
+  - [ ] Monitor
+
+* Statistics
+  - [ ] Course Scoring Viewer
+  - [ ] Course Progress
+  - [ ] Progress v.s. Plan
+  - [ ] Exercise Solving
+  - [ ] Times
+  - [ ] Counters
+  - [ ] Ranking
+
+* Global 
+  - Core timer
+
