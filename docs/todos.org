@@ -1,32 +1,35 @@
-#+START UP: indent
+#+STARTUP: indent
 #+PROPERTY: Effort_ALL 15:00 30:00 40:00 50:00 60:00 70:00 80:00 100:00
 
 * Base Web Dev 1 [25%]
 :PROPERTIES:
 :Effort: 80:00
 :END:
-  - [X] Technology selection [100%]
-    + [X] Server side: [100%]
-      - [X] Database: MySQL 
-      - [X] Framework: Spring Framework
-    + [X] Client side [100%]
-      - [X] Javascript: jQuery + Underscore.js + Backbone.js
-      - [X] CSS: Blueprint.css (for typography and layout)
-  - [ ] Architecture
-        Note: decouple view and controller layer 
-  - [X] Project Setup: Maven + Roo + STS
-  - [-] User related models [50%]
-    + [X] User, Role, Privileges
-    + [ ] Profile
-  - [ ] Authentication [0%]
-    + [ ] Login/out
-    + [ ] Account management [0%]
-      - [ ] creation
-      - [ ] password recovery
-      - [ ] editing
-  - [ ] Integration: Email
-  - [ ] RESTful API to CRUD models
-  - [ ] Course related models
+** Technology selection [100%]
+   + [X] Server side: [100%]
+     - [X] Database: MySQL 
+     - [X] Framework: Spring Framework
+   + [X] Client side [100%]
+     - [X] Javascript: jQuery + Underscore.js + Backbone.js
+     - [X] CSS: Blueprint.css (for typography and layout)
+** Architecture [%]
+   Note: decouple view and controller layer 
+** Project Setup [100%]
+   + [X] Maven
+   + [X] Springsource Tool Suite
+** User related models [50%]
+   + [X] User, Role, Privileges
+   + [ ] Profile
+** Authentication [16%]
+   + [X] Authentication service 
+   + [ ] Login/out
+   + [ ] Account management [0%]
+     - [ ] creation
+     - [ ] password recovery
+     - [ ] editing
+   + [ ] Integration: Email
+   + [ ] RESTful API to CRUD models
+   + [ ] Course related models
 
 * Base Web Dev 2 [0%]
   :PROPERTIES:
