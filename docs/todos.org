@@ -5,22 +5,22 @@
 :PROPERTIES:
 :Effort: 80:00
 :END:
-** Technology selection [100%]
+- [ ] Technology selection [100%]
    + [X] Server side: [100%]
      - [X] Database: MySQL 
      - [X] Framework: Spring Framework
    + [X] Client side [100%]
      - [X] Javascript: jQuery + Underscore.js + Backbone.js
      - [X] CSS: Blueprint.css (for typography and layout)
-** Architecture [%]
-   Note: decouple view and controller layer 
-** Project Setup [100%]
+- [ ] Architecture [%]
+Note: decouple view and controller layer 
+- [ ] Project Setup [100%]
    + [X] Maven
    + [X] Springsource Tool Suite
-** User related models [50%]
+- [ ] User related models [50%]
    + [X] User, Role, Privileges
    + [ ] Profile
-** Authentication [16%]
+- [ ] Authentication [16%]
    + [X] Authentication service 
    + [ ] Login/out
    + [ ] Account management [0%]
